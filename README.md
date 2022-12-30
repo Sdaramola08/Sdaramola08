@@ -16,4 +16,4 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/Josh
-[linkedin]:  https://www.linkedin.com/in/samson-daramola
+[linkedin]:  https://www.linkedin.com/in/samson-daramola-609184243?                          lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVQuGNvq5QFOQJnqk1XGhxw%3D%3D
