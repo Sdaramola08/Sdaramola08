@@ -12,7 +12,7 @@
 
 <h2>Cyber Security Projects:</h2>
 
-- <b>Building a SOC environment</b>
+- <b>Azure SOC Honeynet Project</b>
   - [Setup a SOC environment + Honeynet in Azure(Live Traffic)](https://github.com/Sdaramola08/SOC-Lab.git)
 
 <h2>🤳Connect with me:</h2>
