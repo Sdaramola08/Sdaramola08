@@ -19,7 +19,7 @@
   - [Azure Sentinel Lab (RDP failed login)](https://github.com/Sdaramola08/Failed-RDP-login-on-Sentinel.git)
   - [Deploying Virtual Machines in a Virtual Network Infrastructure](https://github.com/Sdaramola08/Deploying-virtual-machines-in-a-virtual-network.git)
   - [Deploy and Configure an Azure Firewall](https://github.com/Sdaramola08/Deploy-Configure-AzureFirewall.git)
-  - [How to Secure an Azure SQL Database]
+  - [How to Secure an Azure SQL Database](https://github.com/Sdaramola08/Securing-AzureSQLdatabase.git)
 
 <h2>🤳Connect with me:</h2>
 
