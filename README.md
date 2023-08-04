@@ -16,6 +16,7 @@
   - [Setup a SOC environment + Honeynet in Azure(Live Traffic)](https://github.com/Sdaramola08/SOC-Lab.git)
   - [Part 1: Azure Cloud Detection](https://github.com/Sdaramola08/AzureCloudDetection.git)
   - [Part 2: Azure Cloud Detection w/ Azure Sentinel](https://github.com/Sdaramola08/AzureCloudDetection2.git)
+  - [Azure Sentinel Lab (RDP failed login)](https://github.com/Sdaramola08/Failed-RDP-login-on-Sentinel.git)
 
 <h2>🤳Connect with me:</h2>
 
