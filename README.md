@@ -1,4 +1,4 @@
-<h1>Hi, I'm Samson </br> <a href="https://linkedin.com/in/samson-daramola-609184243/">Cyber Security Analyst, and IT Professional</a></h1>
+<h1>Hi, I'm Samson </br> <a href="https://linkedin.com/in/samson-daramola-609184243/">CyberSecurity and IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
