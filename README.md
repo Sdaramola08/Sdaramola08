@@ -12,7 +12,7 @@
 
 <h2>Cyber Security Projects:</h2>
 
-- <b>Setup SIEM in Azure</b>
+- <b>Setup a SOC environment + Honeynet in Azure(Live Traffic)</b>
 
 <h2>🤳Connect with me:</h2>
 
