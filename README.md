@@ -12,8 +12,9 @@
 
 <h2>🔒 Cyber Security Projects:</h2>
 
-- <b>Azure SOC Honeynet Project</b>
+- <b>Azure SOC Projects</b>
   - [Setup a SOC environment + Honeynet in Azure(Live Traffic)](https://github.com/Sdaramola08/SOC-Lab.git)
+  - [Part1: Azure Cloud Detection](https://github.com/Sdaramola08/AzureCloudDetection.git)
 
 <h2>🤳Connect with me:</h2>
 
