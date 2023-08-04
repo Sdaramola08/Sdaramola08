@@ -18,6 +18,7 @@
   - [Part 2: Azure Cloud Detection w/ Azure Sentinel](https://github.com/Sdaramola08/AzureCloudDetection2.git)
   - [Azure Sentinel Lab (RDP failed login)](https://github.com/Sdaramola08/Failed-RDP-login-on-Sentinel.git)
   - [Deploying Virtual Machines in a Virtual Network Infrastructure](https://github.com/Sdaramola08/Deploying-virtual-machines-in-a-virtual-network.git)
+  - [Deploy and Configure an Azure Firewall]
 
 <h2>🤳Connect with me:</h2>
 
