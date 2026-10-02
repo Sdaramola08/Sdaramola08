@@ -1,6 +1,4 @@
-# SAMSON DARAMOLA
-
-> **INFRASTRUCTURE / IDENTITY / CLOUD / SECURITY**
+# Hi! I am SAMSON
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
@@ -9,7 +7,6 @@
 ║  INFRASTRUCTURE   IDENTITY   CLOUD   SECURITY   AUTOMATION  ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
 Infrastructure engineer building and troubleshooting systems across
 **servers, networking, identity, cloud, Linux, automation, and security.**
 
