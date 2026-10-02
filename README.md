@@ -1,122 +1,97 @@
-# Hi, I'm Samson 👋
+# Hi, I'm Samson Daramola
 
-### Identity & Access Management | Cloud | Infrastructure
+### Infrastructure • Identity • Cloud • Security
 
-IT infrastructure professional building hands-on expertise in **Identity and Access Management (IAM), cloud administration, automation, and security**.
+Infrastructure engineer with hands-on experience across enterprise hardware,
+networking, identity, cloud, Linux, automation, and security.
 
-My projects focus on designing and troubleshooting identity systems using **Microsoft Entra ID, Okta, Microsoft Graph, PowerShell, Azure, OIDC/OAuth 2.0, MFA, SSO, RBAC, and identity lifecycle management**.
-
----
-
-## 🪪 Featured IAM Projects
-
-### 🔐 Okta SSO, MFA & Access Management Lab
-Implemented an end-to-end identity federation and authentication solution using **Okta, OpenID Connect, OAuth 2.0, MFA, group-based application assignments, and authentication policies**.
-
-**Highlights**
-- OIDC Authorization Code flow
-- Single Sign-On (SSO)
-- Multi-Factor Authentication
-- Okta Verify
-- Group-based application access
-- Least-privilege design
-- Authentication policy troubleshooting
-- Okta System Log analysis
-- Python/Flask OIDC integration
-- Secure secret management
-
-➡️ [View Okta SSO, MFA & Access Management](https://github.com/Sdaramola08/okta-sso-mfa-access-management)
+I use this GitHub to document systems I've built, technologies I'm learning,
+and engineering problems I've worked through — from identity lifecycle
+automation and SSO to cloud security, infrastructure monitoring, and homelab
+engineering.
 
 ---
 
-### 👤 Microsoft Entra Joiner-Mover-Leaver Identity Lifecycle
-Built an IAM lifecycle workflow demonstrating **Joiner, Mover, and Leaver identity operations using Microsoft Entra ID, Microsoft Graph, and PowerShell**.
+## Featured Projects
 
-**Highlights**
-- User provisioning
-- Identity lifecycle management
-- Group membership management
-- Access changes
-- Account deprovisioning
-- Microsoft Graph
-- PowerShell automation
-- Entra ID administration
+### Okta SSO, MFA & Access Management
+`Okta` `OIDC` `OAuth 2.0` `MFA` `Python` `Flask`
 
-➡️ [View Entra JML Identity Lifecycle](https://github.com/Sdaramola08/entra-jml-identity-lifecycle)
+Implemented an end-to-end authentication environment using Okta with
+OIDC SSO, MFA, group-based access, authentication policies, and a custom
+Flask application.
+
+[View Project](https://github.com/Sdaramola08/okta-sso-mfa-access-management)
 
 ---
 
-## 🧠 IAM Skills
+### Microsoft Entra Identity Lifecycle
+`Entra ID` `Microsoft Graph` `PowerShell` `JML`
 
-**Identity Platforms**
+Built Joiner-Mover-Leaver workflows for user provisioning, access changes,
+group membership management, and identity deprovisioning.
 
-`Microsoft Entra ID` `Okta`
-
-**Authentication & Federation**
-
-`SSO` `MFA` `OIDC` `OAuth 2.0` `Okta Verify`
-
-**Identity Governance & Access**
-
-`RBAC` `Group-Based Access` `Least Privilege` `JML` `Access Reviews`
-
-**Automation**
-
-`PowerShell` `Microsoft Graph` `Python`
-
-**Cloud & Infrastructure**
-
-`Microsoft Azure` `Linux` `Networking` `Active Directory`
+[View Project](https://github.com/Sdaramola08/entra-jml-identity-lifecycle)
 
 ---
 
-## 🏗️ Infrastructure & Security Projects
+### MERKA Nexus
+`Linux` `Docker` `Ansible` `Prometheus` `Grafana` `Networking`
 
-My IAM work is supported by hands-on experience across infrastructure, cloud, networking, and security.
+An evolving infrastructure engineering lab combining segmented networking,
+containerized services, monitoring, automation, remote administration,
+incident intelligence, and AI-assisted operations.
 
-### Microsoft Azure
-- [Configuring On-Premises Active Directory within Azure VMs](https://github.com/sdaramola08/configure-ad)
-- [Network Security Groups & Network Protocol Analysis](https://github.com/sdaramola08/network-protocols)
-- [Deploy and Configure an Azure Firewall](https://github.com/Sdaramola08/Deploy-Configure-AzureFirewall.git)
-- [Secure an Azure SQL Database](https://github.com/Sdaramola08/Securing-AzureSQLdatabase.git)
-
-### Security Engineering
-- [Azure SOC Environment + Honeynet](https://github.com/Sdaramola08/SOC-Lab.git)
-- [Azure Cloud Detection](https://github.com/Sdaramola08/AzureCloudDetection.git)
-- [Azure Cloud Detection with Microsoft Sentinel](https://github.com/Sdaramola08/AzureCloudDetection2.git)
-- [Azure Sentinel Lab](https://github.com/Sdaramola08/Azure-Sentinel-RDP-login-on-Sentinel.git)
+*Documentation and repository in development.*
 
 ---
 
-## 🚧 IAM Portfolio Roadmap
+## Technical Areas
 
-Completed:
+**Identity & Access Management**  
+Microsoft Entra ID • Okta • SSO • MFA • OIDC • OAuth 2.0 • RBAC • JML • Microsoft Graph
 
-- ✅ Entra ID Joiner-Mover-Leaver Lifecycle
-- ✅ Okta SSO, MFA & Access Management
+**Infrastructure & Systems**  
+Linux • Red Hat • Docker • Ansible • PowerShell • Bash • Server Administration
 
-Next:
+**Cloud**  
+Microsoft Azure • Identity • Virtual Networks • NSGs • Azure Firewall • Cloud Security
 
-- 🔄 Identity Governance & Access Review
-- 🔄 Additional IAM automation and cloud identity projects
+**Networking**  
+TCP/IP • VLANs • DNS • DHCP • Firewalls • Switching • Network Troubleshooting
+
+**Security**  
+Microsoft Sentinel • Detection • SIEM • Access Control • Incident Analysis • Security Labs
+
+**Development & Automation**  
+Python • PowerShell • Bash • APIs • Git • Infrastructure Automation
 
 ---
 
-## 🎯 Current Focus
+## Selected Infrastructure & Security Work
 
-Building deeper hands-on capability in:
+- [Azure SOC Environment & Honeynet](...)
+- [Azure Cloud Detection](...)
+- [Microsoft Sentinel Detection Lab](...)
+- [Active Directory in Azure](...)
+- [Azure Firewall Deployment](...)
+- [Network Security & Protocol Analysis](...)
 
-- Identity & Access Management engineering
-- Microsoft Entra ID
-- Okta
+---
+
+## Current Focus
+
+Currently expanding my work in:
+
+- Identity engineering and identity governance
 - Azure administration
-- PowerShell automation
-- Microsoft Graph
-- Linux administration
-- Cloud security
+- Linux and Red Hat administration
+- Infrastructure automation
+- Security engineering
+- MERKA Nexus
 
 ---
 
-## 🤝 Connect With Me
+## Connect
 
 [LinkedIn](https://linkedin.com/in/samson-daramola-609184243/)
