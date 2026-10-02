@@ -12,7 +12,7 @@ Infrastructure engineer building and troubleshooting systems across
 
 ---
 
-## ◈ FEATURED SYSTEMS
+## ◈ PROJECTS
 
 ### 01 // OKTA SSO + MFA
 
@@ -48,7 +48,7 @@ Automate Joiner, Mover, and Leaver identity operations.
 
 ---
 
-### 03 // MERKA NEXUS
+### 03 // MERKA NEXUS - HomeLab
 
 `INFRASTRUCTURE` `LINUX` `AUTOMATION` `SECURITY`
 
@@ -63,7 +63,7 @@ Build an evolving infrastructure engineering and security environment.
 
 ---
 
-## ◈ SYSTEM CAPABILITIES
+## ◈ SKILLS
 
 | DOMAIN | STACK |
 |---|---|
